@@ -1,3 +1,5 @@
+# Clasifications in Supervised Learning  
+
 from sklearn.tree import DecisionTreeClassifier
 X = [
     [10, 10, 1],

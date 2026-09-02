@@ -1,3 +1,5 @@
+# Learnier Regrations in Supervised Learning
+
 from sklearn.linear_model import LinearRegression
 
 X = [
@@ -20,5 +22,4 @@ model = LinearRegression()
 model.fit(X, y)
 
 prediction = model.predict([[1200]])
-
 print(prediction)
