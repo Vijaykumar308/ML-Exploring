@@ -1,0 +1,15 @@
+# Local Python environment
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Python cache and tooling files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+ENV/
