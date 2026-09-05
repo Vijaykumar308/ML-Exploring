@@ -36,6 +36,7 @@ for epoch in range(1000):
     loss.backward()
     optimizer.step()
 
+
 print("Final weight:", model.weight)
 print("Final bias:", model.bias)
 print("Final loss:", loss)
