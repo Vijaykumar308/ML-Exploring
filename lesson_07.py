@@ -10,10 +10,6 @@
 
 # plt.imshow(image, cmap="viridis")
 # plt.show() 
-
-
-
-# asdsad
 #======== Print Circle =================
 
 import numpy as np
